@@ -2,7 +2,7 @@
 Using concept of OOPs programming in Python
 
 ### GOAL OF THE PROJECT
-This project has biased approach towarsds concepts of OOPs like abstraction , polymorphism , inheritence
+This project has biased approach towards concepts of OOPs like abstraction , polymorphism , inheritence
 <div> <b>Note:</b>
 This project can be implemented with different appoaches and with more efficiency but we have focused mainly on OOPs part
 <b>Hints :</b>
