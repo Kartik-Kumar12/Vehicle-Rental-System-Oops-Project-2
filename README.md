@@ -8,6 +8,7 @@ This project can be implemented with different appoaches and with more efficienc
 <b>Hints :</b>
    like connecting with database or excel file keeping track of vehicles and customers and can easily manipulate them using OS module in python 
 </div>
+
 #### Inventory :-
 * Inventory have bikes and cars enlisted with different models and rent_price/day
 * Vehicle can be added and removed from stocks and rented as well
