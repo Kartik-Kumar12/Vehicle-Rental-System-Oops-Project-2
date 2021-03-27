@@ -4,7 +4,7 @@ Using concept of OOPs programming in Python
 ### GOAL OF THE PROJECT
 This project has biased approach towards concepts of OOPs like abstraction , polymorphism , inheritence
 <div> <b>Note:</b>
-This project can be implemented with different appoaches and with more efficiency but we have focused mainly on OOPs part
+This project can be implemented with different appoaches and with more efficiency but i have focused mainly on OOPs part
 <b>Hints :</b>
    like connecting with database or excel file keeping track of vehicles and customers and can easily manipulate them using OS module in python 
 </div>
@@ -20,7 +20,7 @@ This project can be implemented with different appoaches and with more efficienc
 * They can pay the bill
 
 
-#### Porject Preview
+#### Project Preview
 <p align="center">
   <img src = "./VR1.PNG" width ="600"><img src = "./VR2.PNG" width ="600"><img src = "./VR3.PNG" width ="600">
 </p>
